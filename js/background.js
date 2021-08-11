@@ -7,5 +7,3 @@ const bgImage = document.createElement("img");
 bgImage.src = `img/${chosenImage}`;
 
 document.body.appendChild(bgImage);
-// prepend(), appendChild() 둘 다 상관 ㄴ CSS로 바꿀 꺼지롱
-document.body.prepend(bgImage);
