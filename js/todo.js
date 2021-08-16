@@ -42,6 +42,7 @@ function handleToDoSubmit(event) {
   paintToDo(newToDoObj);
   saveToDos();
 }
+toDoForm.addEventListener("submit");
 
 toDoForm.addEventListener("submit", handleToDoSubmit);
 
