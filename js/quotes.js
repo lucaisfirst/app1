@@ -51,3 +51,4 @@ const todayQuotes = quotes[Math.floor(Math.random() * quotes.length)];
 
 quote.innerText = todayQuotes.quote;
 author.innerText = todayQuotes.author;
+fsafds;
