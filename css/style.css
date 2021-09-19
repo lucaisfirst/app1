@@ -49,6 +49,15 @@ ul {
 #weather {
   text-align: center;
 }
+#quote {
+  text-align: center;
+  position: fixed;
+  bottom: 20px;
+  margin-left: px;
+  font-size: 0.8rem;
+  font-weight: 200;
+  color: rgba(231, 218, 218, 0.8);
+}
 
 #weather {
   position: fixed;
