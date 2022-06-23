@@ -24,13 +24,12 @@ const quotes = [
     author: "Albert Einstein",
   },
   {
-    quote:
-      "강한 사람이란 자기를 억누룰 수 있는 사람과 적을 벗으로 바꿀 수 있는 사람이다.",
-    author: "Talmud",
+    quote: "성장하고 싶냐? 로켓에 올라타라. 그리고 존나 버텨라.",
+    author: "김스타트업",
   },
   {
-    quote: "껍질만 보지 말라.  안에 들어 있는 것을 보라.",
-    author: "Talmud",
+    quote: "조급해하지말고 묵직하게 하루하루를 진정성 있게 살아라!",
+    author: "Luca",
   },
   {
     quote:
